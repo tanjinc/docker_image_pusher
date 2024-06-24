@@ -5,6 +5,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+opensearchproject/opensearch:2.8.0
+opensearchproject/opensearch-dashboards:2.8.0
+divenswu/face-search:2.1.0
+
 openjdk:8-jdk
 openjdk:8-jdk-alpine
 openjdk:11.0.11-jre-slim
