@@ -9,3 +9,4 @@ openjdk:8-jdk
 openjdk:8-jdk-alpine
 grafana/loki:2.9.2
 grafana/promtail:2.9.2
+grafana:2.9.2
