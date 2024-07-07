@@ -6,6 +6,13 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 goharbor/harbor-log:v2.11.0
+goharbor/registry-photon:v2.11.0
+goharbor/harbor-db:v2.11.0
+goharbor/harbor-portal:v2.11.0
+goharbor/harbor-jobservice:v2.11.0
+goharbor/redis-photon:v2.11.0
+goharbor/nginx-photon:v2.11.0
+
 nginx:1.25.5-alpine
 
 opensearchproject/opensearch:2.8.0
