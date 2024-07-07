@@ -4,24 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-goharbor/harbor-core:v2.11.0
-goharbor/harbor-log:v2.11.0
-goharbor/registry-photon:v2.11.0
-goharbor/harbor-db:v2.11.0
-goharbor/harbor-portal:v2.11.0
-goharbor/harbor-jobservice:v2.11.0
-goharbor/redis-photon:v2.11.0
-goharbor/nginx-photon:v2.11.0
 
-nginx:1.25.5-alpine
 
-opensearchproject/opensearch:2.8.0
-opensearchproject/opensearch-dashboards:2.8.0
-divenswu/face-search:2.1.0
-
-openjdk:8-jdk
-openjdk:8-jdk-alpine
-openjdk:11.0.11-jre-slim
-grafana/loki:2.9.2
-grafana/promtail:2.9.2
-grafana/grafana:11.0.0
+goharbor/harbor-registryctl:v2.11.0
