@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
+goharbor/harbor-core:v2.11.0
 goharbor/harbor-log:v2.11.0
 goharbor/registry-photon:v2.11.0
 goharbor/harbor-db:v2.11.0
