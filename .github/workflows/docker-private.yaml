@@ -60,7 +60,6 @@ jobs:
 
     - name: Build and push image Yotugo
       run: |
-        docker login --username admin --password 111.Yotugo https://harbor.yotugo.com
         # 数据预处理,判断镜像是否重名
         declare -A duplicate_images
         declare -A temp_map
