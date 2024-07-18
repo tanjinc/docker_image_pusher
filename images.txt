@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-goharbor/harbor-registryctl:v2.11.0
+apache/rocketmq:5.2.0
