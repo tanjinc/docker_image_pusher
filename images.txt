@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #rabbitmq:4.0.3-management-alpine
 #python:3.9-slim
-influxdb:2.7
+#influxdb:2.7
+grafana/promtail:3.4.4
