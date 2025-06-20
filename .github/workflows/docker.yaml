@@ -57,6 +57,7 @@ jobs:
 
     - name: Build and push image Aliyun
       run: |
+        echo ${{ secrets.ALIYUN_REGISTRY }}
         echo ${{ secrets.ALIYUN_REGISTRY_USER }}
         echo ${{ secrets.ALIYUN_REGISTRY_PASSWORD }}
         docker login --username=jackatan registry.cn-shanghai.aliyuncs.com -p 111.Yotugo
