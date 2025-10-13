@@ -9,5 +9,6 @@
 #grafana/promtail:3.4.4
 #node:20-alpine
 #soulteary/sqlite-wordpress:6.5.2
-maven:3.9.6-eclipse-temurin-21-alpine
-eclipse-temurin:21-jre-alpine
+#maven:3.9.6-eclipse-temurin-21-alpine
+#eclipse-temurin:21-jre-alpine
+nginx:1.25.5-alpine
