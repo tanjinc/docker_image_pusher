@@ -6,7 +6,7 @@
 #rabbitmq:4.0.3-management-alpine
 #python:3.9-slim
 #influxdb:2.7
-grafana/promtail:3.4.4
+#grafana/promtail:3.4.4
 #node:20-alpine
 #node:18-alpine
 #soulteary/sqlite-wordpress:6.5.2
@@ -15,3 +15,4 @@ grafana/promtail:3.4.4
 #eclipse-temurin:21-jre
 #nginx:1.25.5-alpine
 #mysql:8.4.7
+openjdk:8-jdk-slim
