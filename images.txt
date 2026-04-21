@@ -15,4 +15,4 @@
 #eclipse-temurin:21-jre
 #nginx:1.25.5-alpine
 #mysql:8.4.7
-openjdk:8-jdk-slim
+eclipse-temurin:8-jdk-alpine
