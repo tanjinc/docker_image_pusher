@@ -8,7 +8,7 @@
 #influxdb:2.7
 #grafana/promtail:3.4.4
 #node:20-alpine
-#node:18-alpine
+node:24-alpine
 #soulteary/sqlite-wordpress:6.5.2
 #maven:3.9.6-eclipse-temurin-21-alpine
 #eclipse-temurin:21-jre-alpine
@@ -16,4 +16,4 @@
 #nginx:1.25.5-alpine
 #mysql:8.4.7
 #eclipse-temurin:8-jdk-alpine
-emqx/emqx:6.2.0
+#emqx/emqx:6.2.0
